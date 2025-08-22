@@ -5,11 +5,12 @@
 ---
 
 
-# 🌟 Omnifood - 響應式美食訂閱服務網站
+# Omnifood Landing Page 🍱
 
-[🔗 點我觀看線上展示 Demo](https://frank-1211-chen.github.io/Omifood/)
+[🔗 點我立即預覽網站](https://frank-1211-chen.github.io/Omifood/)
 
-![Omnifood 頁面預覽](./img/hero.png)
+![網站預覽圖](https://raw.githubusercontent.com/Frank-1211-CHEN/Omifood/main/screenshot.png)
+
 
 
 ## 🔍 專案介紹
